@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 
-public class automationExerciseTest {
+public class AutomationExerciseTest {
 
     @Test
     public void youtubeTest() {
